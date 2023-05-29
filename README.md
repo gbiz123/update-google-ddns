@@ -9,3 +9,5 @@ This script expects your Google Dynamic DNS credentials and Domain name to be ex
   - Password: $GOOGLE_DNS_PASSWORD
   - Domain name: $MY_DOMAIN_NAME
 
+Usage:
+```. ./update-google-ddns.sh```
